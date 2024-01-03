@@ -2,6 +2,11 @@
 [![](./reamde_resources/data-sci-jumpstart.webp)](https://training.talkpython.fm/courses/data-science-jumpstart-with-10-projects)
 
 
+## Introduction
+
+This repository contains my solutions for the labs in the [Data Science Jumpstart with 10 Projects course](https://training.talkpython.fm/courses/details/data-science-jumpstart-with-10-projects). In addition to the course solutions, I have also used the Polars library, a fast and scalable DataFrame library for Python and Rust, to solve the problems. You can learn more about Polars from its [official website](https://pola.rs/) or this [tutorial](https://realpython.com/polars-python/).
+
+
 ## Instructions
 
 You can run the notebook using Github Codespaces or locally:
